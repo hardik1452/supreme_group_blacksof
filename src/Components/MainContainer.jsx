@@ -2,7 +2,7 @@
 const MainContainer = () => {
   return (
     <div
-      className="w-full font-primary h-dvh oveflow-hidden flex flex-col items-center justify-center bg-[#00000099]"
+      className="w-full font-primary h-dvh oveflow-hidden flex flex-col items-center justify-center bg-[#00000099]" id="maindiv"
     >
       <div className="relative z-10 bg-opacity-50 text-center grid gap-2 text-white lg:mx-auto">
         <p className="font-light block text-2xl pt-2 pb-3">

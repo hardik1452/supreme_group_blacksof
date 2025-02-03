@@ -23,7 +23,7 @@ const Constants = [
       id: 3,
       category: "MORE",
       links: [
-        { id: 301, name: "Contact Us" },
+        { id: 301, name: "Contact Us", link:"#contact-us" },
         { id: 302, name: "Careers" }
       ]
     },
@@ -31,7 +31,7 @@ const Constants = [
       id: 4,
       category: "FOLLOW US",
       links: [
-        { id: 401, name: "LinkedIn" }
+        { id: 401, name: "LinkedIn",url:"https://www.linkedin.com/company/supreme-group-company/" }
       ]
     }
   ];

@@ -26,7 +26,7 @@ const Navbar = () => {
     >
       {/* COMPANY logo with anchor tag */}
       <div className="flex my-2 mx-6 md:mx-24 p-2 justify-between items-center">
-        <a className="hover:cursor-pointer" target="_blank" href="#">
+        <a className="hover:cursor-pointer" href="#maindiv">
           <img
             src="https://supreme-group.vercel.app/static/media/logo.68f5b8493efb88f7cd65756bf67a1f5b.svg"
             alt="logo"

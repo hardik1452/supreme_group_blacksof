@@ -56,7 +56,7 @@ const GetInTouch = () => {
     }, 2000);
   };
   return (
-    <div className="w-full oveflow-hidden bg-secondary font-primary md:px-6 md:py-12 max-sm:px-6 max-sm:py-12 max-md:p-6 lg:px-52 lg:py-32">
+    <div className="w-full oveflow-hidden bg-secondary font-primary md:px-6 md:py-12 max-sm:px-6 max-sm:py-12 max-md:p-6 lg:px-52 lg:py-32" id="contact-us">
       <div className="lg:flex md:flex max-sm:flex-col justify-between items-center text-white">
         {/* Left Side */}
         <div
