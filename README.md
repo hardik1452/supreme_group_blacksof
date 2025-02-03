@@ -4,8 +4,8 @@
 React application build for the BlackSof assignment of Supreme Group. 
 ## Demo
 
-https://supreme-group-blacksof.vercel.app/
-https://github.com/hardik1452/supreme_group_blacksof/
+1. https://supreme-group-blacksof.vercel.app/
+2. https://github.com/hardik1452/supreme_group_blacksof/
 
 ## Installation
 
